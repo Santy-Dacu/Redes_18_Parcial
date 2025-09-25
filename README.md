@@ -1,5 +1,5 @@
-# Redes_18_Parcial
-Entrega Parcial TP 18 Redes - Santino D'Acunti
+# Redes_19_Parcial
+Entrega Parcial TP 19 Redes - Santino D'Acunti
 
 Escáner de Red + Netstat (Parcial) – TP Redes 5to Año
 
